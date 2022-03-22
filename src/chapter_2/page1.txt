@@ -1,4 +1,3 @@
 
 Day 2 of Git.
-
 This is warm up
